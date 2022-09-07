@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web development and AI 
 - 🌱 I’m currently learning ASP.NET CORE
 - 💞️ I’m looking to collaborate on Web and AI projects
-- 📫 How to reach me sara@abouroumia@gmail.com
+- 📫 How to reach me sara.abouroumia@agu.edu.tr
 
 <!---
 Sara-Abouroumia/Sara-Abouroumia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
