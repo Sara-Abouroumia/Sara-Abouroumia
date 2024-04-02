@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sara-Abouroumia
-- 👀 I’m interested in Full Stack Web development and AI 
-- 🌱 I’m currently learning ASP.NET CORE
+- 👀 I’m interested in Full Stack Web development, 3D Modeling and AI 
+- 🌱 I’m currently learning 3D Modeling
 - 💞️ I’m looking to collaborate on Web and AI projects
 - 📫 How to reach me sara.abouroumia@agu.edu.tr
 
