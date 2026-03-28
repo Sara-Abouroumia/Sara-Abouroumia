@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sara-Romia
 - 👀 I’m interested in Full Stack Web development, 3D Modeling and AI 
 - 🌱 I’m currently learning 3D Modeling
-- 💞️ I’m looking to collaborate on Web and AI projects
-- 📫 How to reach me sara.abouroumia@agu.edu.tr
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me saraabouroumia@gmail.com
 
 <!---
 Sara-Abouroumia/Sara-Abouroumia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
