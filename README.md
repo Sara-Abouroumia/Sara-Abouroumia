@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sara-Romia
+- 👋 Hi, I’m @Sara-Abouroumia
 - 👀 I’m interested in Full Stack Web development, 3D Modeling and AI 
 - 🌱 I’m currently learning 3D Modeling
 - 💞️ I’m looking to collaborate on AI projects
